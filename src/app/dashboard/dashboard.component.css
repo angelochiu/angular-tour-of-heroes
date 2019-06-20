@@ -29,12 +29,12 @@
     width: 25%;
   }
   .module {
-    padding: 20px;
+    padding: 10px;
     text-align: center;
     color: #eee;
     max-height: 120px;
     min-width: 120px;
-    background-color: #3f525c;
+    background-color: #008800;
     border-radius: 2px;
   }
   .module:hover {
