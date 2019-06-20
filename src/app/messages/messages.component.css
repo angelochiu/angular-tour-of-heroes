@@ -22,7 +22,7 @@ h2 {
     cursor: hand;
   }
   button:hover {
-    background-color: #cfd8dc;
+    background-color: #ff85cc;
   }
   button:disabled {
     background-color: #eee;
